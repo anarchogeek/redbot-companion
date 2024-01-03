@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Redbot Companion
  * Description: Un plugin companion pour Redbot avec différentes fonctionnalités.
- * Version: 1.0
+ * Version: 0.1
  * Author: Ton Nom
  */
 
